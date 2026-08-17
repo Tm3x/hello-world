@@ -8,7 +8,7 @@ This project is to demonstrate the usage of readme.so to make a markdown file fo
 
 ## Instructions Given
 
-1.Firstly we set up a GitHub account .
+1.Firstly we setted up a GitHub account .
 
 2.Secondly we learned how to create a repository .
 
