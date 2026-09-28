@@ -19,3 +19,5 @@ This project is to demonstrate the usage of readme.so to make a markdown file fo
 5.Then installing tools such as VS code and Jupyter notebooks was suggested .
 
 6.Now we are learning the usage of external tools such as readme.so
+
+7.added for conflict
