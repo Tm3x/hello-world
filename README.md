@@ -20,3 +20,6 @@ This project is to demonstrate the usage of readme.so to make a markdown file fo
 
 6.Now we are learning the usage of external tools such as readme.so
 
+7.Added a new change into the readme md for new lab exercise 
+
+8.Added another line from git bash
