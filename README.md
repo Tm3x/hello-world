@@ -22,4 +22,4 @@ This project is to demonstrate the usage of readme.so to make a markdown file fo
 
 7.Added a new change into the readme md for new lab exercise 
 
-8.Added another line from git bashx
+8.Added another line from git bash
